@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kyle Dominic Villaroman Solis
+# 👋 Hi, I'm Kydo Solis
 
 **Senior Full Stack Engineer | Tech Lead | Problem Solver**
 
